@@ -1,0 +1,6 @@
+[submodule "SCVCG"]
+	path = SCVCG
+	url = https://github.com/MrGodOfNight/SCVCG.git
+[submodule "SCL"]
+	path = SCL
+	url = https://github.com/MrGodOfNight/SCL.git
